@@ -1,0 +1,84 @@
+.body{
+    background-color:rgb(255, 255, 255);
+}
+.suhayb{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    padding-right: 20px;
+    background-color: rgb(71, 30, 30);
+    color: white;
+}
+.a1{
+    color:rgb(6, 193, 131);
+}
+.a1:hover{
+    color: green;
+}
+.h1{
+    color:blueviolet;
+}
+.img1{
+    width: 390px;
+    height: 280px;
+    padding: -30px;
+}
+
+.roza{
+    background-color:rgb(71, 30, 30);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    padding-right: 20px;
+    color: white;
+}
+.img2{
+    width: 390px;
+    height: 300px;
+    padding: 8px;
+}
+.h2{
+    color: blueviolet;
+}
+.a2{
+    color:rgb(6, 193, 131);
+}
+.a2:hover{
+    color: green;
+}
+.friend{
+    background-color: rgb(71, 30, 30);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    padding-right: 20px;
+}
+.h3{
+    color: blueviolet;
+}
+.a3{
+    color: rgb(6, 193, 131);
+}
+.a3:hover{
+    color: green;
+}
+.img3{
+    width: 380px;
+    height: 300px;
+    padding: 8px;
+}
+.colhamuy{
+    margin-top: 25px;
+}
+.rowsarata{
+    background-color: #1b4f72;
+}
+.btn{
+    width: 80px;
+    height: 50px;
+}
+.btn:hover{
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+.colcolor{
+    margin-top: 10px;
+}
